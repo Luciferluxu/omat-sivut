@@ -1,0 +1,21 @@
+body {
+    background-color:darkgreen;
+}
+
+h1 {
+    color: blue;
+    font-family: 50px;
+}
+p {
+    color: red;
+}
+
+h2 {
+    color: burlywood;
+    font-family: 40px;
+}
+
+h3 {
+    color: darkgrey;
+    font-family: 40px;
+}
